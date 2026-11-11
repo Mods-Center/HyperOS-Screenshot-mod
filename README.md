@@ -13,22 +13,22 @@
 
 </div>
 
-## ✨ Features
+## Features
 - Device frames for any device
 - App-name pill that shows which app the screenshot was taken in
 - Saved presets: your last options are applied to the next screenshot
 - Apply edits on capture: frames and options are added automatically, without opening the editor
 
-## 📋 Requirements
+## Requirements
 - HyperOS
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/HyperOS-Screenshot-mod/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c4636ebe-2c44-481a-a6e8-51533864c2aa" width="23%" alt="Screenshot"/>
   <img src="https://github.com/user-attachments/assets/ae7012ea-c6f1-4ab2-8f20-f364c425318e" width="23%" alt="Screenshot"/>
@@ -55,8 +55,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/HyperOS-Screenshot-mod/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-Screenshot-mod/issues)
 
 </div>
